@@ -1,0 +1,50 @@
+
+
+
+#title {
+background-color:darkslategrey;
+}
+
+#about {
+background-color: darkslategrey;
+color: white;
+}
+
+#miniproject {
+    background-color: darkslategrey;
+    color: white;
+}
+
+#fullimgcarousel {
+width: 100%;
+height: max-content;
+z-index: 1;
+}
+
+.close {
+background-color: transparent;
+}
+
+.toggle {
+background-color: #B5e61D;
+color: black;
+border: 0px;
+}
+
+.jsimg {
+font-size: 1.125rem;
+text-anchor: middle;
+-webkit-user-select: none;
+-moz-user-select: none;
+user-select: none;
+}
+
+@media (min-width: 768px) {
+.jsimg-lg {
+    font-size: 3.5rem;
+}
+}
+   
+
+
+
